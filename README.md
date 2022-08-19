@@ -1,5 +1,5 @@
-# Kim's Typical Computer Setup
+# Computer Setup
 
-Some general computer setup files and notes should I ever have to do it all again on a new shiny computer. If it helps you, cool.
+Some files and notes for setting up a computer for software development, data analysis, etc.
 
-I've spent most of my time on a macbook, so there are likely differences on Windows or Linux.
+While most of the items here are tested on Mac, there's likely some compatibility with Windows and Linux.
